@@ -1,5 +1,12 @@
 /* ------------------- MAIN ------------------- */
-
+.principal-section,
+.whatWeDo,
+.services,
+.proyectos,
+.infoEstudio,
+.contacto{
+    display: none;
+}
 /* --------- SECTION 1 VIDEO --------- */
 .principal-section {
     /* grid */
