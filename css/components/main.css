@@ -1,9 +1,4 @@
 /* ------------------- MAIN ------------------- */
-.principal-section,
-.whatWeDo,
-.services,
-.proyectos,
-.infoEstudio,
 .contacto{
     display: none;
 }
@@ -204,9 +199,7 @@
 
 
 /* --------- SECTION 6 CONTACTO --------- */
-.contacto img{
-    display: none;
-}
+
 .contactoInfo{
     display: grid;
     grid-column: 1 / -1;

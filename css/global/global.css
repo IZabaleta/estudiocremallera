@@ -66,6 +66,13 @@
       font-size: clamp(5rem, 3.6796rem + 5.6338vw, 8.75rem);
       color: var(--secondary);
     }
+    .captionTextBold{
+      font-family: "Sharp";
+      font-weight: 600;
+      font-size: clamp(5rem, 3.6796rem + 5.6338vw, 8.75rem);
+      color: var(--secondary);
+      text-transform: capitalize;
+    }
     .paragraphText{
       font-family: "Sharp";
       font-weight: 400;
